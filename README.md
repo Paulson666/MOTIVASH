@@ -40,11 +40,8 @@ Permissions Required: PACKAGE_USAGE_STATS, SYSTEM_ALERT_WINDOW, FOREGROUND_SERVI
 For Software:
 
 Installation
+https://github.com/Paulson666/MOTIVASH/blob/main/MOTIVASH.apk
 
-
-
-Run
-[commands]
 
 Project Documentation
 For Software:
