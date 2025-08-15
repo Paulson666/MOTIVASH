@@ -66,8 +66,11 @@ Project Demo
 https://github.com/Paulson666/MOTIVASH/blob/main/motivish.mp4
 
 Team Contributions
+
 SOORAJ NS:DEVELOPING
+
 PAULSON C:DEBUGGING AND TESTING
+
 Made with ❤️ at TinkerHub Useless Projects
 
 Static Badge Static Badge
