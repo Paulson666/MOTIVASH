@@ -1,1 +1,94 @@
-# MOTIVASH
+MOTIVASH 🎯
+Basic Details
+Team Name:The Civilians
+Team Members
+Team Lead:SOORAJ -TIST
+Member 2:PAULSON C - TIST
+Project Description
+MOTIVASH is an Android app that helps you stay focused and productive by tracking your screen time, setting custom limits for apps, and blocking distractions once limits are reached. With built-in math challenges for extra time requests, it encourages mindful and intentional app usage.
+
+The Problem (that doesn't exist)
+People are losing hours of their lives to an evil cabal of cat videos, endless meme scrolling, and that one “just five more minutes” rabbit hole that somehow eats half the day. Society is on the brink — productivity is crashing, snacks are mysteriously disappearing, and our thumbs are developing six-packs from endless swiping. We knew we had to act…
+
+
+
+The Solution (that nobody asked for)
+We’re tackling distractions by turning discipline into a game!
+MOTIVASH keeps you on track by setting screen time limits, blocking sneaky apps when you’ve had enough, and making you earn extra time with quick math challenges  because if you can’t solve it, you can’t scroll it! 
+
+Technical Details
+Technologies/Components Used
+For Software:
+Programming Language: Kotlin
+
+UI Framework: Android XML layouts (or Jetpack Compose if preferred)
+
+IDE: Android Studio Hedgehog (2023.1.1 or later)
+
+Android SDK: SDK 34 (API Level 34), Target Android 14, Minimum SDK 24 (Android 7.0)
+
+Architecture Pattern: MVVM (Model-View-ViewModel)
+
+Core Android Components: Activities, Services, Broadcast Receivers, Content Providers
+
+APIs Used: UsageStatsManager, Accessibility Services API, System Alert Window, Foreground Service
+
+Libraries/Dependencies: AndroidX Core KTX, Material Components, RecyclerView, ViewPager2, ConstraintLayout, SwipeRefreshLayout
+
+Permissions Required: PACKAGE_USAGE_STATS, SYSTEM_ALERT_WINDOW, FOREGROUND_SERVICE, POST_NOTIFICATIONS
+
+For Hardware:
+
+[List main components]
+[List specifications]
+[List tools required]
+Implementation
+For Software:
+
+Installation
+https://github.com/Paulson666/MOTIVASH
+
+Run
+[commands]
+
+Project Documentation
+For Software:
+
+Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+
+![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+
+![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+
+Diagrams
+![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+
+For Hardware:
+
+Schematic & Circuit
+![Circuit](Add your circuit diagram here) Add caption explaining connections
+
+![Schematic](Add your schematic diagram here) Add caption explaining the schematic
+
+Build Photos
+![Components](Add photo of your components here) List out all components shown
+
+![Build](Add photos of build process here) Explain the build steps
+
+![Final](Add photo of final product here) Explain the final build
+
+Project Demo
+Video
+[Add your demo video link here] Explain what the video demonstrates
+
+Additional Demos
+[Add any extra demo materials/links]
+
+Team Contributions
+[Name 1]: [Specific contributions]
+[Name 2]: [Specific contributions]
+[Name 3]: [Specific contributions]
+Made with ❤️ at TinkerHub Useless Projects
+
+Static Badge Static Badge
