@@ -55,11 +55,15 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+https://github.com/Paulson666/MOTIVASH/blob/main/WhatsApp%20Image%202025-08-15%20at%2007.48.56_1936497d.jpg
+This screen welcomes new users to the MOTIVASH app and introduces its core purpose—helping users take control of digital habits by setting limits, blocking distractions, and boosting motivation.
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+https://github.com/Paulson666/MOTIVASH/blob/main/WhatsApp%20Image%202025-08-15%20at%2007.48.56_3b21f463.jpg
+This screen allows users to select which installed apps they want to block or restrict. Users can check apps from the available list that tend to be distracting, and set healthy usage limits for each.
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+https://github.com/Paulson666/MOTIVASH/blob/main/WhatsApp%20Image%202025-08-15%20at%2007.48.56_529d10d8.jpg
+When users try to extend their app usage time, this screen presents a math challenge. They must solve three problems (like 513 ÷ 19) to unlock additional time, adding a fun friction point to prevent impulsive usage.
+
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
